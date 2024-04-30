@@ -1,2 +1,2 @@
 # NCamp-StudyGrop01
-Naver Cloud Camp DevOps 12, Study Grop 01-Modify
+Naver Cloud Camp DevOps 12, Study Grop 01
