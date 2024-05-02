@@ -20,9 +20,9 @@ public class Max3 {
 		
 		if (a>b) {
 			max = a;
-		}
-		else {
+			else {
 			max = b;
+			}
 		}
 		
 		if(max<c) {
