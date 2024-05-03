@@ -10,7 +10,7 @@ public class ArrayUtility {
 		double[] result = new double[source.length];
 		
 		for(int i = 0; i < source.length; i++) {
-			result[i] = (double) source[i];
+			result[i] =  source[i]; 			//자동으로 형변환되기때문에 ..따로 안해도됨
 		} return result;
 		
 	}

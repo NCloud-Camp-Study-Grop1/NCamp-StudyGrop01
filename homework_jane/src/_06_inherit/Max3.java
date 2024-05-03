@@ -19,17 +19,18 @@ class Max3 {
 		/*
 		이곳에 적절한 코드를 넣으세요
 		*/
-		if(a < b) { 
-			max = b;
-			if(c > b) {
-				max = c;
-			}
+		if(a < b) {
+			max = b;}
+		
+		if(b < c) {
+			max = c;
 		}
-		
-		
+	
 	
 		
 		System.out.println("최댓값은 " + max + "입니다.");
+		
+		stdIn.close();
 
 	}
 }

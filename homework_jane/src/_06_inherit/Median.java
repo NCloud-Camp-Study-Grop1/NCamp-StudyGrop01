@@ -6,29 +6,27 @@ import java.util.Scanner;
 class Median {
 	static int med3(int a, int b, int c) {
 		
-		int med = a;
 		//여기를 완성하세요.
-		if(a < b) {
-			if(a < c) {
-				if(b < c) {
-					med = b;
-				}else {
-					med = c;
-				}
+		
+		if(a >= b) {
+			if(c < b) {
+				return b;
+			} else if(c < a) {
+				return c;
+			} else {
+				return a;
 			}
+		} else if(c >= b) {
+			return b;
+		} else if(a >= c) {
+			return a;
 		} else {
-			if (a > c) {
-				if(b < c) {
-				med = b;
-			}else {
-				med = c;
-			}	
+			return c;
 		}
-	}
+	
+	} 
 		
-		return med;
-		
-	}
+	
 
 	public static void main(String[] args) {
 		Scanner stdIn = new Scanner(System.in);
