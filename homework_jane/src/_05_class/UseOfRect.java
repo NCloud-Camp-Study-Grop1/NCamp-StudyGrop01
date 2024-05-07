@@ -6,8 +6,8 @@ public class UseOfRect {
 		// TODO Auto-generated method stub
 		Rect rect = new Rect(10, 15);
 		
-		System.out.println("둘레 : " + rect.dul());
-		System.out.println("넓이 : " + rect.size());
+//		System.out.println("둘레 : " + rect.dul());
+//		System.out.println("넓이 : " + rect.size());
 
 	}
 

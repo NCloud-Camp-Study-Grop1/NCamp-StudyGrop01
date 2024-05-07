@@ -9,18 +9,18 @@ public class ArrayUtility2 {
 	int[] s1 = {1, 2, 3, 4};
 	int[] s2 = {5, 6, 7, 8};
 	
-
-	public static int[] concat(int[] s1, int[] s2) { 
-		int[] result = new int[s1.length+s2.length];
-		
-		int index = 0 ;
-		
-		return   ; 
+//
+//	public static int[] concat(int[] s1, int[] s2) { 
+//		int[] result = new int[s1.length+s2.length];
+//		
+//		int index = 0 ;
+//		
+//		return   ; 
+//	}
+//	
+//	public static int[] remove(int[] s1, int[] s2) {
+//		
+//		
+//		return;
 	}
-	
-	public static int[] remove(int[] s1, int[] s2) {
-		
-		
-		return;
-	}
-}
+//}
