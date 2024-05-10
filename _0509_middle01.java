@@ -24,12 +24,8 @@ public class _0509_middle01 {
         cal.add(Calendar.DATE, 3);
 
         
-        // 출력 형식 지정
-        SimpleDateFormat outputFormat = new SimpleDateFormat("yyyy-MM-dd");
-
-        
         // 결과 출력
-        String result = outputFormat.format(cal.getTime());
+        String result = simpleDateFormat.format(cal.getTime());
         System.out.println("3일 뒤 : " + result);
     }
 }
