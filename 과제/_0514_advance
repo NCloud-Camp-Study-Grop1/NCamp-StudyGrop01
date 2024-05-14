@@ -1,11 +1,6 @@
 package homework;
 
 public class _0514_advance {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
 	
 	public class MonthDaysCalculator {
 	    // 상수로 12달을 정의합니다.
