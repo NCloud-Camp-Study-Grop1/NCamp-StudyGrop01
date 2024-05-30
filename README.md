@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=66ff00&text=Naver%20Could%20Camp%20Devops12&fontColor=ffffff&fontAlign=34&fontAlignY=54&fontSize=40&height=100)
 
-## 네이버 클라우드 캠프 데브옵스 12기 스터디 1조 📖
+## 네이버 클라우드 캠프 데브옵스 12기 스터디 1조 📖 (24.04.24 ~ 24.05)
 네이버 클라우드 캠프 데브옵스 12기 스터디 1조의 공용 리포지토리입니다 :)
 <br>
 <br>
